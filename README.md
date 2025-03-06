@@ -1,4 +1,4 @@
-# Hi there, I'm Dawit G Weldu 👋
+# Hi there, I'm Dawit 👋
 
 ### About Me
 
