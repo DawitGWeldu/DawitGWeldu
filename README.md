@@ -22,6 +22,7 @@ I'm a passionate software developer with a love for learning and building innova
 - **Frameworks**: React, Next.js, Node.js, Express, Nest, Django/Flask, Laravel, React-Native
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Tools**: Git, Docker, Kubernetes, CI/CD
+- **And a whole lot more :)**
 
 ### 📈 GitHub Stats
 ![DawitGWeldu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawitGWeldu&show_icons=true&theme=radical)
