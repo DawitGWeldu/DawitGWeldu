@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Dawit G Weldu 👋
 
-<!--
-**DawitGWeldu/DawitGWeldu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm a passionate software developer with a love for learning and building innovative solutions. With a strong background in software engineering and hands-on experience in various technologies, I enjoy tackling complex problems and solving real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Distrubuted systems
+- Cloud computing and dev-ops
+
+### 💬 Ask Me About
+- Web development (React, Node.js, etc.)
+- Mobile app development (React Native, Flutter)
+
+### 📫 How to Reach Me
+- Email: [Say hi?](mailto:dawit@example.com)
+- LinkedIn: [Dawit G Weldu](https://www.linkedin.com/in/dawitgweldu/)
+- Phone: [📞](+251994697123)
+
+### 🛠️ Tech Stack
+- **Languages**: JavaScript, TypeScript, Python, PHP, Java
+- **Frameworks**: React, Next.js, Node.js, Express, Nest, Django/Flask, Laravel, React-Native
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Tools**: Git, Docker, Kubernetes, CI/CD
+
+### 📈 GitHub Stats
+![DawitGWeldu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawitGWeldu&show_icons=true&theme=radical)
+
+### 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DawitGWeldu&layout=compact&theme=radical)
+
+### 🤝 Let's Collaborate
+I'm always open to collaboration on interesting projects. Feel free to reach out if you have an exciting idea or need help with an existing project.
+
+Looking forward to connecting with you!
