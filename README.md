@@ -15,7 +15,7 @@ I'm a passionate software developer with a love for learning and building innova
 ### 📫 How to Reach Me
 - Email: [Ask me a question or say hi](mailto:gdawit35@gmail.com)
 - LinkedIn: [Dawit G Weldu](https://www.linkedin.com/in/dawit-g-weldu/)
-- Phone: [📞](tel:+251994697123)
+- Phone: [+251 994 697 123](tel:+251994697123)
 
 ### 🛠️ Tech Stack
 - **Languages**: JavaScript, TypeScript, Python, PHP, Java
