@@ -1,5 +1,5 @@
 # Hi there, I'm Dawit 👋
-###-[Check out my website](https://daves-personal-site.vercel.app/) 
+[Check out my website](https://daves-personal-site.vercel.app/) 
 
 ### About Me
 
