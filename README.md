@@ -13,9 +13,9 @@ I'm a passionate software developer with a love for learning and building innova
 - Mobile app development (React Native, Flutter)
 
 ### 📫 How to Reach Me
-- Email: [Say hi?](mailto:dawit@example.com)
-- LinkedIn: [Dawit G Weldu](https://www.linkedin.com/in/dawitgweldu/)
-- Phone: [📞](+251994697123)
+- Email: [Ask me a question or say hi](mailto:gdawit35@gmail.com)
+- LinkedIn: [Dawit G Weldu](https://www.linkedin.com/in/dawit-g-weldu/)
+- Phone: [📞](tel:+251994697123)
 
 ### 🛠️ Tech Stack
 - **Languages**: JavaScript, TypeScript, Python, PHP, Java
