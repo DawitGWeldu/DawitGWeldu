@@ -6,8 +6,6 @@
 I'm a passionate software developer with a love for learning and building innovative solutions. With a strong background in software engineering and hands-on experience in various technologies, I enjoy tackling complex problems and solving real problems.
 
 ### 🌱 Currently Learning
-- Distrubuted systems
-- Cloud computing and dev-ops
 - web3 and smart contracts
 
 ### 💬 Ask Me About
