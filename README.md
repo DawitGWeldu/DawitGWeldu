@@ -3,7 +3,7 @@
 
 ### About Me
 
-I'm a passionate software developer with a love for learning and building innovative solutions. With a strong background in software engineering and hands-on experience in various technologies, I enjoy tackling complex problems and solving real problems.
+I'm a passionate software developer with a love for learning and building innovative solutions. With a strong background in software engineering and hands-on experience in various technologies, I enjoy tackling complex issues and solving real problems.
 
 ### 🌱 Currently Learning
 - web3 and smart contracts
